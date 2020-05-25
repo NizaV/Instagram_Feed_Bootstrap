@@ -1,0 +1,13 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: #6C757D;
+}
+
+.nav-pills .nav-link {
+    color: #6C757D;
+}
